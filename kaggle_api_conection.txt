@@ -1,0 +1,13 @@
+1. Instalar Kaggle
+- pip install Kaggle
+
+2. Criar uma chave de API no site do Kaggle
+
+3. Mover o arquivo de api para uma pasta kaggle no repositorio
+windows: move <file-path> path-to-<move>
+linux: mv <file-path> <path-to-move>
+
+3.1 Linux: Fornecer permissão de leitura e escrita no arquivo
+- chmod 600 <file-path>
+
+4. 
