@@ -49,6 +49,8 @@ Este projeto é desevolvido em parceiria por **João Pedro de Brito** e **Rodrig
 - [ ] Analisar resultados
 - [ ] Refatorar codigo
 - [ ] Implementar TDD
+- [ ] Deploy do modelo (Streamlit)
+- [ ] Documentação (FastAPI)
 - [ ] Publicar no Kaggle
 
 ---
